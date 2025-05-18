@@ -5,12 +5,13 @@ CreateWise Dashboard is a modern, responsive web application built to visualize 
 
 🚀 Live Demo
 Hosted on Vercel:
-https://vercel.com/bikrams-projects-599fde76/createwise-dashboard
+https://v0-shadcn-ui-dashboard-kappa-three.vercel.app/
 
 
 
 
 📁 Features
+
 📊 Interactive charts and data visualizations
 
 📅 Filterable views by date, category, or metric
@@ -27,9 +28,6 @@ React / Next.js	Frontend framework
 Chart.js / Recharts	Data visualization library
 Tailwind CSS	Utility-first CSS framework
 Vercel	Deployment and hosting
-
-🧑‍💻 Getting Started
-Clone the repository and run it locally:
 
 
 # 1. Clone the repo
@@ -58,7 +56,7 @@ Open http://localhost:3000 in your browser.
 📬 Contact
 For questions, feedback, or collaboration:
 
-Vik
 📧 vikrammohanty.royalstar12@gmail.com
+
 🐙 github.com/vik-bit
 
