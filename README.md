@@ -45,16 +45,7 @@ npm install
 npm run dev
 Open http://localhost:3000 in your browser.
 
-🧹 Folder Structure
 
-CreateWise-Dashboard-zr/
-├── public/            # Static assets
-├── components/        # Reusable React components
-├── pages/             # Next.js pages
-├── styles/            # Tailwind / global styles
-├── utils/             # Helper functions (if any)
-├── package.json
-└── README.md
 ✅ TODO / Improvements
  Add authentication
 
